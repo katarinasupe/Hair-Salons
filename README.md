@@ -1,6 +1,6 @@
 ﻿
 # Timski projekt iz kolegija RP2
-* izradili: Lorena Novak, Nikola Sunara, Mateja Terzanović, Katarina Šupe
+Izradili: Lorena Novak, Nikola Sunara, Mateja Terzanović, Katarina Šupe
 ## PHP i JS web aplikacija korištenjem MVC arhitekturalnog obrasca
 
 ### Model: 
