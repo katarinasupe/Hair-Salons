@@ -1,5 +1,5 @@
 ﻿
-# Timski projekt iz kolegija RP2
+# Timski projekt iz kolegija Računarski praktikum 2
 Izradili: Lorena Novak, Nikola Sunara, Mateja Terzanović, Katarina Šupe
 ## PHP i JS web aplikacija korištenjem MVC arhitekturalnog obrasca
 
